@@ -9,5 +9,5 @@ To view this project with github please click [here.](https://github.com/meowhar
  2. Launch Jupyter Notebook. Ignore the browser window that has opened for now, but leave it open.
  3. Download the .zip file of this project. [[DOWNLOAD]](https://github.com/meowhard/Data-Visualization-in-Python/archive/master.zip)
  4. Extract the project to a directory of your choosing.
- 5. In the browser window that was opened upon the launch of Jupyter Notebook, navigate to the project folder. Then open the mtgPython folder and click on the MTGData.
- 6. When the notebook opens all blocks of code will run and you are able to view the card information.
+ 5. In the browser window, that opened with the launch of Jupyter Notebook, navigate to the project folder. Then open the mtgPython folder and click on MTGData.ipynb
+ 6. When the notebook opens, all blocks of code will run and you are able to view the card information.
