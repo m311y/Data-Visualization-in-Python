@@ -1,8 +1,24 @@
 # Data Visualization in Python
  *This project can be viewed in on github, but it is reccomended that you download the .zip and open the notebook from Jupyter Notebook.*
  
-## Instructions for viewing
+ 
+ ## This Workbook Explained
+ Magic the Gathering is a tabletop trading card game in which the goal is to reduce your opponents life points to zero. You accomplish this through playing various creatures and spells to take down the opponents creatures on the field and diretly attack your opponent. This workbook details the EDHREC ranking of cards from the Theros Beyond Death set.
+ 
+The EDHREC ranking is assigned based on how successful a card is in the EHD/Commander format of play. This visualization shows the converted mana cost for each card by rank, and categorized by each rarity. For more information about converted mana cost please follow the link below
+
+https://mtg.gamepedia.com/Mana_cost
+
+## Technical Summary
+
+-  **Backend:** Python3 
+-  **Libraries:** Pandas, plotly
+-  **Front End:** Jupyter Notebook
+
+
+## Instructions for Viewing
 To view this project with github please click [here.](https://github.com/meowhard/Data-Visualization-in-Python/blob/master/mtgPython/MTG%20Data.ipynb)
+ 
  
  ### View in Jupyter Notebook
  1. Install Anaconda. You can find the download [here.](https://www.anaconda.com/distribution/) Click [here](https://docs.anaconda.com/anaconda/install/) for help with installation.
