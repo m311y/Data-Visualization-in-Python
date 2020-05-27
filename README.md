@@ -17,7 +17,7 @@ https://mtg.gamepedia.com/Mana_cost
 
 
 ## Instructions for Viewing
-To view this project with github please click [here.](https://github.com/meowhard/Data-Visualization-in-Python/blob/master/mtgPython/MTG%20Data.ipynb)
+To view this project with github please click [here.](https://github.com/meowhard/Data-Visualization-in-Python/blob/master/mtgPython/listmtg.ipynb)
  
  
  ### View in Jupyter Notebook
